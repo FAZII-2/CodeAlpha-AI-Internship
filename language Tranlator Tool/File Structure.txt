@@ -1,0 +1,11 @@
+language-translator/
+├── app.py              # Flask backend — routes, API calls, main logic
+├── requirements.txt    # List of Python packages (so anyone can reinstall them)
+├── .env                # Config: API URL (kept OUT of GitHub)
+├── .gitignore           # Tells Git to ignore .env, venv/, __pycache__, etc.
+├── templates/
+│   └── index.html      # The webpage (Flask looks here automatically)
+├── static/
+│   ├── style.css        # Styling
+│   └── script.js         # Frontend logic: talks to our Flask backend
+└── README.md            # Project docs (we'll write this last)
