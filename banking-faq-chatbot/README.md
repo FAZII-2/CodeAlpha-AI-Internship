@@ -1,4 +1,3 @@
-```markdown
 # Banking FAQ Chatbot
 
 BankID is an AI-powered banking FAQ assistant that helps users get quick answers to common banking questions. It supports natural-language questions about accounts, cards, transfers, loans, fees, online banking, security, fraud, and general banking terms.
@@ -34,7 +33,7 @@ The project includes a FastAPI backend with NLP-based FAQ matching and a React/V
 
 ## Technology Stack
 
-### Backend
+## Backend
 
 - Python
 - FastAPI
@@ -46,7 +45,7 @@ The project includes a FastAPI backend with NLP-based FAQ matching and a React/V
 - Pydantic
 - Pytest
 
-### Frontend
+## Frontend
 
 - React
 - Vite
