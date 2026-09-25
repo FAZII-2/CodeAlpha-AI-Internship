@@ -1,0 +1,170 @@
+{
+  "category": "Accounts",
+  "faqs": [
+    {
+      "question": "How do I open a bank account?",
+      "alternate_questions": [
+        "What is the process to open an account?",
+        "I want to open a new account",
+        "How can I create a bank account?",
+        "Steps to start a savings account"
+      ],
+      "answer": "You can open an account at a branch or, at many banks, online through the bank's website or app. You choose the account type, fill in an application, provide identity and address documents, and complete the bank's identity checks (KYC). Once approved, the bank issues your account number and usually a debit card and access to online banking.",
+      "keywords": ["open account", "new account", "create account", "apply", "register", "start account"]
+    },
+    {
+      "question": "What documents do I need to open an account?",
+      "alternate_questions": [
+        "Which documents are required for account opening?",
+        "What ID do I need to open a bank account?",
+        "Proof of address for bank account",
+        "Requirements for a new account"
+      ],
+      "answer": "Most banks ask for a valid government-issued photo ID, proof of address such as a utility bill or rental agreement, and a recent photograph. Some also request a tax identification number or proof of income or employment. Exact requirements differ between banks and countries, so check your bank's official list before applying.",
+      "keywords": ["documents", "id", "identity", "proof of address", "requirements", "passport", "photo"]
+    },
+    {
+      "question": "What is KYC and why does my bank need it?",
+      "alternate_questions": [
+        "What does KYC mean?",
+        "Why is the bank asking for my identity documents?",
+        "Know your customer meaning",
+        "KYC verification process"
+      ],
+      "answer": "KYC stands for Know Your Customer. It is the process banks use to verify who you are and where you live, which helps prevent fraud, identity theft and money laundering. Banks are legally required to do it when you open an account and may ask you to update your details from time to time.",
+      "keywords": ["kyc", "know your customer", "verification", "identity", "compliance", "update kyc"]
+    },
+    {
+      "question": "What is the difference between a savings account and a current account?",
+      "alternate_questions": [
+        "Savings vs current account",
+        "Which account type is better for me?",
+        "What is a checking account?",
+        "Should I open a savings or current account?"
+      ],
+      "answer": "A savings account is meant for keeping money and usually earns interest, but it may limit the number of free withdrawals or transactions. A current account (also called a checking account) is designed for frequent daily transactions such as payments and business use, and it typically earns little or no interest. Choose savings to grow money you don't need every day, and current for regular spending or business activity.",
+      "keywords": ["savings account", "current account", "checking account", "difference", "interest", "account types"]
+    },
+    {
+      "question": "What is a minimum balance requirement?",
+      "alternate_questions": [
+        "Do I need to keep a minimum balance in my account?",
+        "What happens if my balance falls below the minimum?",
+        "Minimum balance meaning",
+        "Is there a minimum amount to keep in my account?"
+      ],
+      "answer": "A minimum balance is the lowest amount some accounts require you to keep to avoid a fee or to keep certain benefits. If your balance drops below it, the bank may charge a penalty or fee, depending on the account terms. Many banks also offer basic or zero-balance accounts, so check the account terms or ask your bank.",
+      "keywords": ["minimum balance", "balance", "fee", "penalty", "zero balance", "maintain balance"]
+    },
+    {
+      "question": "Can I open a joint account?",
+      "alternate_questions": [
+        "What is a joint bank account?",
+        "How do I add someone to my account?",
+        "Can my spouse and I share an account?",
+        "Joint account rules"
+      ],
+      "answer": "Yes, most banks let two or more people hold a joint account, commonly spouses, family members or business partners. All holders must complete identity verification, and the account terms set who can operate it, for example either holder alone or all holders together. It's worth understanding these terms before opening, since joint holders usually share responsibility for the account.",
+      "keywords": ["joint account", "joint holder", "spouse", "shared account", "add holder", "two people"]
+    },
+    {
+      "question": "Can I open a bank account online?",
+      "alternate_questions": [
+        "Is online account opening available?",
+        "Open account without visiting the branch",
+        "Can I open an account from my phone?",
+        "Digital account opening"
+      ],
+      "answer": "Many banks now offer online or mobile account opening, where you upload your documents and complete identity verification, often with a photo or video check. Some banks or account types still need a branch visit to finish verification. Check your bank's website or app to see which options they offer.",
+      "keywords": ["online", "digital", "mobile", "app", "remote", "without branch", "e-kyc"]
+    },
+    {
+      "question": "How do I close my bank account?",
+      "alternate_questions": [
+        "I want to close my account",
+        "What is the process to close a savings account?",
+        "How to cancel my bank account",
+        "Account closure procedure"
+      ],
+      "answer": "Contact your bank and submit a closure request, usually by visiting a branch or through secure online channels if offered. Before closing, clear any dues, cancel automatic payments and direct debits, move your remaining balance to another account and return unused cards or cheque books. Ask for written confirmation that the account is closed.",
+      "keywords": ["close account", "closure", "cancel account", "terminate", "shut down account"]
+    },
+    {
+      "question": "What is a dormant or inactive account?",
+      "alternate_questions": [
+        "Why is my account inactive?",
+        "How do I reactivate a dormant account?",
+        "What happens if I don't use my account for a long time?",
+        "Inactive account meaning"
+      ],
+      "answer": "An account is usually classed as dormant or inactive when there have been no customer-initiated transactions for an extended period set by the bank or local regulations. Dormant accounts may have restrictions or fees, and in some places unclaimed funds are eventually transferred to a regulator. To reactivate, contact your bank, usually with identity verification, and make a transaction as required.",
+      "keywords": ["dormant", "inactive", "reactivate", "unused account", "no transactions"]
+    },
+    {
+      "question": "How do I update my address, phone number or email with the bank?",
+      "alternate_questions": [
+        "Change my contact details",
+        "I changed my phone number, what should I do?",
+        "How can I update my address in my account?",
+        "Update personal information in bank records"
+      ],
+      "answer": "You can usually update contact details through online banking, the mobile app or by visiting a branch with identification. A change of address often requires supporting proof, such as a utility bill. Keep your details current so you continue to receive alerts, statements and security codes, and only use your bank's official channels to make the change.",
+      "keywords": ["update", "change", "address", "phone number", "email", "contact details", "personal information"]
+    },
+    {
+      "question": "What is a fixed deposit (term deposit)?",
+      "alternate_questions": [
+        "How does a fixed deposit work?",
+        "What is a term deposit?",
+        "Explain fixed deposit account",
+        "Can I withdraw a fixed deposit early?"
+      ],
+      "answer": "A fixed or term deposit lets you lock a sum of money with the bank for an agreed period at an agreed interest rate, which is usually higher than a regular savings rate. Withdrawing before the term ends often means a penalty or a reduced rate. It suits money you won't need in the near term. Rates and terms differ between banks.",
+      "keywords": ["fixed deposit", "term deposit", "fd", "time deposit", "lock", "maturity", "certificate of deposit"]
+    },
+    {
+      "question": "How can I get my bank statement?",
+      "alternate_questions": [
+        "How do I download my account statement?",
+        "Where can I see my transaction history?",
+        "I need a statement for a visa or loan",
+        "What is an e-statement?"
+      ],
+      "answer": "You can usually view and download statements in online banking or the mobile app, and many banks email e-statements monthly. For an official stamped or certified statement, for example for a visa or loan application, request it at a branch or through your bank's official request service. Fees or waiting times may apply for older or certified copies.",
+      "keywords": ["statement", "bank statement", "transaction history", "download", "e-statement", "certified statement"]
+    },
+    {
+      "question": "How can I check my account balance?",
+      "alternate_questions": [
+        "How do I see how much money I have?",
+        "Check balance without going to the bank",
+        "What is my current balance?",
+        "Balance inquiry options"
+      ],
+      "answer": "I can't see your account, but you can check your balance in your bank's mobile app or online banking, at an ATM, through SMS or phone banking if your bank offers them, or at a branch. Use only your bank's official app and channels, and never share your PIN, password or one-time codes with anyone.",
+      "keywords": ["balance", "check balance", "account balance", "balance inquiry", "how much money"]
+    },
+    {
+      "question": "Where can I find my account number?",
+      "alternate_questions": [
+        "What is my account number?",
+        "How do I find my IBAN?",
+        "Where is my account number on my card or cheque?",
+        "I forgot my account number"
+      ],
+      "answer": "Your account number appears on your bank statements, cheque book, welcome letter and in online banking or the mobile app. It is usually not printed on a debit card, because the card number is a different number. Many banks also show your IBAN in the app. If you can't find it, contact your bank through official channels.",
+      "keywords": ["account number", "iban", "find account number", "forgot account number", "bank details"]
+    },
+    {
+      "question": "Can I have more than one bank account?",
+      "alternate_questions": [
+        "Is it allowed to have accounts in multiple banks?",
+        "Can I open two savings accounts?",
+        "Should I keep multiple accounts?",
+        "Having accounts in different banks"
+      ],
+      "answer": "Yes, in most places you can hold several accounts, including at different banks, though some banks limit the number of the same account type per customer. Many people keep separate accounts for spending, savings and bills to manage money more easily. Remember that each account may carry its own fees or minimum balance rules.",
+      "keywords": ["multiple accounts", "more than one account", "two accounts", "different banks", "several accounts"]
+    }
+  ]
+}

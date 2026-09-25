@@ -1,0 +1,89 @@
+{
+  "category": "Cards",
+  "faqs": [
+    {
+      "question": "How do I block my debit or credit card?",
+      "alternate_questions": ["My card was stolen, what should I do?", "How can I freeze my card?", "I lost my ATM card", "Block card immediately"],
+      "answer": "Block the card immediately through your bank's mobile app, online banking, or by calling the bank's official 24-hour helpline. Blocking takes effect right away and stops further use. After blocking, you can usually request a replacement card.",
+      "keywords": ["block", "lost", "stolen", "freeze", "debit card", "credit card", "atm card"]
+    },
+    {
+      "question": "How do I activate a new card?",
+      "alternate_questions": ["My new card doesn't work", "How to activate debit card", "Steps to activate a credit card", "First time card use"],
+      "answer": "New cards are usually activated through the bank's app, online banking, an ATM using your PIN, or by calling the activation number printed on the card or its sleeve. Some cards activate automatically on first use with the PIN. Check the instructions that came with your card.",
+      "keywords": ["activate", "new card", "activation", "first use"]
+    },
+    {
+      "question": "How do I change or reset my card PIN?",
+      "alternate_questions": ["I forgot my PIN", "Reset ATM PIN", "Change debit card PIN", "PIN not working"],
+      "answer": "You can usually change or reset your PIN at an ATM, in your bank's mobile app, or at a branch. If you've forgotten it entirely, most banks let you generate a new PIN through the app or by requesting one at a branch with identification. Never share your PIN with anyone, including bank staff.",
+      "keywords": ["pin", "reset pin", "change pin", "forgot pin"]
+    },
+    {
+      "question": "Why was my card declined?",
+      "alternate_questions": ["My card isn't working", "Payment failed with my card", "Card declined at store", "Transaction not going through"],
+      "answer": "A card can be declined for several reasons: insufficient funds, reaching a daily spending limit, the card being expired or blocked, incorrect PIN entries, or the merchant's terminal being unable to reach your bank. Check your app for alerts, or contact your bank if the problem continues.",
+      "keywords": ["declined", "not working", "failed", "rejected", "transaction failed"]
+    },
+    {
+      "question": "How do I increase my card's spending limit?",
+      "alternate_questions": ["Raise my daily withdrawal limit", "Increase credit card limit", "My limit is too low", "Change transaction limit"],
+      "answer": "You can usually request a limit change through your bank's app, online banking, or by contacting customer service. Credit limit increases may depend on your income and credit history and can require the bank's approval. Daily ATM or POS limits are often adjustable instantly for security reasons.",
+      "keywords": ["limit", "increase limit", "spending limit", "withdrawal limit", "credit limit"]
+    },
+    {
+      "question": "Can I use my card internationally?",
+      "alternate_questions": ["Does my card work abroad?", "Enable international transactions", "Using my debit card while traveling", "Card blocked overseas"],
+      "answer": "Most debit and credit cards work internationally, but many banks require you to enable international or overseas usage first, often through the app, for security. Foreign transaction fees and currency conversion charges may apply. It's a good idea to notify your bank of travel plans beforehand.",
+      "keywords": ["international", "abroad", "overseas", "travel", "foreign transaction"]
+    },
+    {
+      "question": "What is the difference between a debit card and a credit card?",
+      "alternate_questions": ["Debit vs credit card", "Which card should I use?", "How does a credit card work?", "Debit card explained"],
+      "answer": "A debit card draws money directly from your bank account, so you can only spend what you have. A credit card lets you borrow up to an approved limit and repay later, usually with interest if not paid in full by the due date. Credit cards can help build credit history but need responsible repayment.",
+      "keywords": ["debit card", "credit card", "difference", "how it works"]
+    },
+    {
+      "question": "How do I request a replacement card?",
+      "alternate_questions": ["My card is damaged", "Card expired, need a new one", "Reissue lost card", "Order a new debit card"],
+      "answer": "You can request a replacement through your bank's app, online banking, or a branch, typically for a lost, stolen, damaged or expired card. A replacement fee may apply depending on the reason. The new card usually arrives within a few business days, with your PIN set separately for security.",
+      "keywords": ["replace", "replacement", "new card", "damaged", "expired card", "reissue"]
+    },
+    {
+      "question": "What should I do if I see a transaction I don't recognize on my card?",
+      "alternate_questions": ["Unauthorized charge on my card", "I didn't make this payment", "Suspicious transaction on my account", "Someone used my card"],
+      "answer": "Report it to your bank immediately through the app, helpline or a branch, and ask them to block the card if you suspect it's compromised. Most banks have a process to dispute unauthorized transactions and may issue a provisional credit while investigating. Acting quickly improves your chances of recovering the funds.",
+      "keywords": ["unauthorized", "unrecognized transaction", "dispute", "fraud charge", "suspicious"]
+    },
+    {
+      "question": "How do I set up contactless or tap-to-pay?",
+      "alternate_questions": ["Enable contactless payments", "Add card to Apple Pay or Google Pay", "Tap to pay not working", "Mobile wallet setup"],
+      "answer": "Most modern cards support contactless payments automatically. To add your card to a mobile wallet like Apple Pay or Google Pay, open the wallet app, choose add card, and follow the verification steps, which usually involve a code sent by your bank. Contactless payments are typically capped at a limit for small transactions.",
+      "keywords": ["contactless", "tap to pay", "apple pay", "google pay", "mobile wallet"]
+    },
+    {
+      "question": "What is a card CVV and where do I find it?",
+      "alternate_questions": ["What is the security code on my card?", "Where is the CVV number?", "3 digit code on card", "CVV meaning"],
+      "answer": "The CVV, or card verification value, is the 3-digit security code usually on the back of the card near the signature strip (4 digits on the front for some card networks). It's used to verify online and phone purchases. Never share it except when directly making a purchase on a trusted site.",
+      "keywords": ["cvv", "security code", "3 digit code", "back of card"]
+    },
+    {
+      "question": "Can I get a card for my teenager or child?",
+      "alternate_questions": ["Debit card for kids", "Add a supplementary card", "Card for my child", "Family or add-on card"],
+      "answer": "Many banks offer supplementary or add-on cards linked to a parent's account, or dedicated youth accounts with their own debit cards, often with spending controls and lower limits. Requirements and minimum age vary by bank, so check what your bank offers.",
+      "keywords": ["kids card", "teenager", "supplementary card", "add-on card", "child account"]
+    },
+    {
+      "question": "How do I dispute a card payment?",
+      "alternate_questions": ["Chargeback for card purchase", "I want to dispute a card transaction", "Card payment dispute process", "Refund for a card purchase"],
+      "answer": "Contact your bank through its official app, website or phone number and provide the transaction details. First contact the merchant when the issue is a purchase problem, but report suspected fraud to your bank immediately. The bank will explain the dispute process and any time limits for submitting evidence.",
+      "keywords": ["dispute card payment", "chargeback", "card purchase dispute", "refund", "card transaction"]
+    },
+    {
+      "question": "Why is my card payment still pending?",
+      "alternate_questions": ["Pending card transaction", "Card payment has not completed", "Why is a payment pending?", "Card purchase pending for days"],
+      "answer": "A pending card payment means the merchant has requested authorization but the transaction has not fully settled. It may remain pending for a few days, especially for hotels, fuel stations or online purchases. If it stays pending unusually long or you do not recognize it, contact your bank and the merchant through official channels.",
+      "keywords": ["pending card payment", "pending transaction", "card authorization", "payment not settled"]
+    }
+  ]
+}

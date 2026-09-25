@@ -1,0 +1,77 @@
+{
+  "category": "Transfers and Payments",
+  "faqs": [
+    {
+      "question": "How do I transfer money to another account?",
+      "alternate_questions": ["How to send money to someone", "Transfer funds to another bank", "How do I make a bank transfer?", "Send money online"],
+      "answer": "You can transfer money through your bank's app or online banking by adding the recipient (usually needing their account number or IBAN and bank details), entering the amount, and confirming with a security code. Transfers to the same bank are often instant, while transfers to other banks may take longer depending on the transfer type.",
+      "keywords": ["transfer", "send money", "wire", "bank transfer", "move money"]
+    },
+    {
+      "question": "How long does a bank transfer take?",
+      "alternate_questions": ["Why is my transfer delayed?", "How fast is a wire transfer?", "When will the money arrive?", "Transfer processing time"],
+      "answer": "Timing depends on the transfer type: same-bank transfers are often instant, domestic transfers through fast payment networks can take minutes to a few hours, and standard or international transfers can take one to several business days. Transfers submitted outside business hours, on weekends or holidays, are usually processed the next business day.",
+      "keywords": ["how long", "delay", "processing time", "transfer time", "when will it arrive"]
+    },
+    {
+      "question": "What is an IBAN and where do I find mine?",
+      "alternate_questions": ["What does IBAN stand for?", "How do I get my IBAN number?", "IBAN meaning", "Where to find IBAN"],
+      "answer": "IBAN stands for International Bank Account Number, a standardized format used mainly for cross-border and European transfers to identify an account precisely. You can find yours in online banking, the mobile app, or on your bank statement. Not all countries use IBANs.",
+      "keywords": ["iban", "international bank account number", "find iban"]
+    },
+    {
+      "question": "What is a SWIFT or BIC code?",
+      "alternate_questions": ["What does SWIFT code mean?", "How do I find my bank's BIC code?", "SWIFT code for international transfer", "BIC vs SWIFT"],
+      "answer": "A SWIFT code, also called a BIC, identifies a specific bank and branch for international transfers. It's usually 8 or 11 characters. You can find your bank's SWIFT code on its website, your statement, or by asking customer service. Both sender and receiver may need it for cross-border transfers.",
+      "keywords": ["swift code", "bic", "international transfer code", "bank identifier"]
+    },
+    {
+      "question": "Why did my transfer fail?",
+      "alternate_questions": ["My money transfer didn't go through", "Transfer error", "Payment rejected", "Transaction failed reason"],
+      "answer": "Common reasons include insufficient funds, incorrect account or routing details, exceeding a transfer limit, the recipient's account being closed or restricted, or a temporary system issue. If money was debited but the transfer failed, it's usually reversed automatically within a few business days; otherwise contact your bank.",
+      "keywords": ["transfer failed", "error", "rejected", "didn't go through", "reversed"]
+    },
+    {
+      "question": "What is a standing order or recurring payment?",
+      "alternate_questions": ["How do I set up automatic payments?", "What is a direct debit?", "Recurring transfer setup", "Automatic bill payment"],
+      "answer": "A standing order is an instruction to your bank to automatically send a fixed amount to a recipient on a set schedule, commonly used for rent or regular savings. A direct debit is similar but lets a company (like a utility provider) request a variable amount from your account. Both can usually be set up and cancelled in your app or online banking.",
+      "keywords": ["standing order", "direct debit", "recurring payment", "automatic payment", "scheduled transfer"]
+    },
+    {
+      "question": "Can I cancel or reverse a transfer after sending it?",
+      "alternate_questions": ["I sent money to the wrong account", "Stop a pending transfer", "Recall a bank transfer", "Undo a payment"],
+      "answer": "If the transfer hasn't been processed yet, you may be able to cancel it in your app or by contacting the bank quickly. Once completed, the bank generally cannot reverse it unilaterally; it can only request the receiving bank to return the funds, which the recipient must agree to. Report mistaken transfers to your bank immediately, since acting fast improves the chances of recovery.",
+      "keywords": ["cancel transfer", "wrong account", "reverse payment", "recall transfer", "undo transfer"]
+    },
+    {
+      "question": "What is the difference between a wire transfer and other payment methods?",
+      "alternate_questions": ["What is a wire transfer?", "Wire transfer vs bank transfer", "How does a wire transfer work?", "Same-day transfer options"],
+      "answer": "A wire transfer is a direct bank-to-bank transfer, often used for large amounts or international payments, and it's usually fast but may carry a fee. Other methods, such as standard transfers through payment networks, are often free or cheaper but can take longer. The best option depends on speed needed, cost, and whether the payment is domestic or international.",
+      "keywords": ["wire transfer", "payment methods", "fast transfer", "same day", "difference"]
+    },
+    {
+      "question": "Is there a limit on how much money I can transfer?",
+      "alternate_questions": ["Daily transfer limit", "Maximum amount I can send", "Transfer limit per day", "Why can't I send more money?"],
+      "answer": "Yes, banks typically set daily or per-transaction limits for security, which can often be viewed and sometimes adjusted in your app or online banking. Limits may differ between transfer types, such as instant transfers versus standard ones. Contact your bank if you need a temporary or permanent increase for a specific transaction.",
+      "keywords": ["transfer limit", "maximum amount", "daily limit", "sending limit"]
+    },
+    {
+      "question": "How do I pay bills through my bank?",
+      "alternate_questions": ["Pay utility bill online", "Bill payment through app", "Set up bill pay", "Pay electricity bill from bank account"],
+      "answer": "Most banks offer a bill payment feature in their app or online banking, where you add a biller (like a utility or phone company), enter your reference or account number with that biller, and submit or schedule the payment. Confirm the payment reference is correct, since bill payments are matched automatically by the biller.",
+      "keywords": ["pay bills", "bill payment", "utility bill", "biller", "pay online"]
+    },
+    {
+      "question": "What recipient details are needed for a bank transfer?",
+      "alternate_questions": ["Information needed to send money", "What bank details does a transfer require?", "Account number for transfer", "Details needed for domestic payment"],
+      "answer": "Depending on the country and transfer type, you may need the recipient's full name, account number, routing number or sort code, and sometimes an IBAN or SWIFT/BIC code. Check every detail carefully before confirming because transfers sent to the wrong account may be difficult to recover.",
+      "keywords": ["recipient details", "account number", "routing number", "sort code", "transfer information"]
+    },
+    {
+      "question": "What is a pending bank transfer?",
+      "alternate_questions": ["Transfer says pending", "Why has my transfer not completed?", "Bank payment processing", "Money transfer pending"],
+      "answer": "A pending transfer is still being checked or processed and has not reached its final status. It can take longer during weekends, holidays, security reviews or maintenance periods. Do not send a duplicate payment until you confirm the status with your bank, especially if money has already been debited.",
+      "keywords": ["pending transfer", "transfer processing", "payment pending", "bank transfer status"]
+    }
+  ]
+}

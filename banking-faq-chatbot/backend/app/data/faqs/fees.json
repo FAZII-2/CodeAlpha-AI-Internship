@@ -1,0 +1,59 @@
+{
+  "category": "Fees and Charges",
+  "faqs": [
+    {
+      "question": "What fees might I be charged for my bank account?",
+      "alternate_questions": ["What are common banking fees?", "Why was I charged a fee?", "List of bank charges", "Hidden fees in bank accounts"],
+      "answer": "Common fees can include monthly maintenance fees, minimum balance penalties, ATM fees (especially at other banks' machines), overdraft fees, international transaction fees, and card replacement fees. Exact fees vary widely by bank and account type, so check your bank's fee schedule, usually available on their website or in your account terms.",
+      "keywords": ["fees", "charges", "bank fees", "hidden fees", "fee schedule"]
+    },
+    {
+      "question": "What is an overdraft and how does it work?",
+      "alternate_questions": ["What happens if I spend more than my balance?", "Overdraft fee explained", "Going negative on my account", "What is overdraft protection?"],
+      "answer": "An overdraft occurs when you spend more than your available balance, and if your bank allows it, the account goes negative, often with a fee and sometimes interest charged on the overdrawn amount. Some banks offer overdraft protection, linking a savings account or credit line to cover the gap automatically. Terms vary significantly, so check your account's overdraft policy.",
+      "keywords": ["overdraft", "negative balance", "overdraft protection", "overdraft fee"]
+    },
+    {
+      "question": "Are there fees for using an ATM from another bank?",
+      "alternate_questions": ["ATM withdrawal fee", "Does it cost money to use a different bank's ATM?", "Out-of-network ATM charge", "Free ATM withdrawals"],
+      "answer": "Many banks charge a fee for using another bank's ATM, and the ATM operator may also charge a separate fee. Some accounts offer a set number of free out-of-network withdrawals per month, or reimburse fees, especially for premium accounts. Using your own bank's ATMs is usually free.",
+      "keywords": ["atm fee", "withdrawal fee", "other bank atm", "out of network"]
+    },
+    {
+      "question": "Are there fees for money transfers?",
+      "alternate_questions": ["Does a bank transfer cost money?", "International transfer fee", "Wire transfer charges", "Are online transfers free?"],
+      "answer": "Many domestic transfers, especially through instant or standard payment networks, are free or low-cost, while wire transfers and international transfers often carry a fee, plus possible currency conversion charges. Fees depend heavily on the transfer type, amount, and your bank, so check the fee schedule before sending.",
+      "keywords": ["transfer fee", "wire fee", "international transfer cost", "free transfer"]
+    },
+    {
+      "question": "Why am I being charged a monthly maintenance fee?",
+      "alternate_questions": ["Monthly account fee", "How do I avoid a maintenance fee?", "Service charge on my account", "Waive monthly fee"],
+      "answer": "Maintenance fees cover the cost of running the account and are common on many account types, though they can often be waived by maintaining a minimum balance, having a certain amount of monthly deposits, or holding a qualifying account type. Ask your bank what conditions would waive the fee for you.",
+      "keywords": ["maintenance fee", "monthly fee", "service charge", "waive fee"]
+    },
+    {
+      "question": "What is a foreign transaction fee?",
+      "alternate_questions": ["Currency conversion fee", "Fee for spending abroad", "International purchase charge", "Foreign exchange fee on card"],
+      "answer": "A foreign transaction fee is a percentage charged when you use your card in a foreign currency or with a merchant based abroad, covering currency conversion and processing costs. Some cards waive this fee, which is worth checking if you travel or shop internationally often.",
+      "keywords": ["foreign transaction fee", "currency conversion", "spending abroad", "forex fee"]
+    },
+    {
+      "question": "Can bank fees be refunded or waived?",
+      "alternate_questions": ["Can I get a fee reversed?", "Request a fee waiver", "Dispute a bank charge", "Ask bank to remove a fee"],
+      "answer": "Many banks will consider waiving or refunding a fee, especially for a first-time occurrence or a loyal customer, if you contact them and explain the situation. It's not guaranteed, but it's often worth politely asking through the app, chat, or customer service.",
+      "keywords": ["waive fee", "refund fee", "dispute charge", "remove fee"]
+    },
+    {
+      "question": "What is a minimum balance fee?",
+      "alternate_questions": ["Charge for low account balance", "Fee when balance falls below minimum", "How to avoid minimum balance charges", "Low balance penalty"],
+      "answer": "A minimum balance fee may be charged when your account stays below the balance required by its terms. Check the account fee schedule for the required amount and waiver conditions, such as regular deposits. Some banks offer accounts without a minimum balance requirement.",
+      "keywords": ["minimum balance fee", "low balance fee", "balance penalty", "avoid fee"]
+    },
+    {
+      "question": "Are there fees for receiving an international transfer?",
+      "alternate_questions": ["Incoming wire transfer fee", "Cost to receive money from abroad", "International payment receiving charge", "Fee for incoming transfer"],
+      "answer": "Some banks charge an incoming international transfer fee, and intermediary or correspondent banks may deduct additional charges before the money arrives. Check your bank's fee schedule and ask the sender which fee option applies before the transfer is sent.",
+      "keywords": ["incoming transfer fee", "receive international money", "wire receiving fee", "correspondent bank charge"]
+    }
+  ]
+}

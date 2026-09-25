@@ -1,0 +1,83 @@
+{
+  "category": "Loans and Credit",
+  "faqs": [
+    {
+      "question": "What is an EMI?",
+      "alternate_questions": ["What does EMI mean?", "How is my monthly loan payment calculated?", "Equated monthly installment meaning", "Loan repayment amount explained"],
+      "answer": "EMI stands for Equated Monthly Installment, the fixed amount you pay each month toward a loan, covering both principal and interest. It's calculated from the loan amount, interest rate and repayment period, so that the loan is fully repaid by the end of the term with equal monthly payments.",
+      "keywords": ["emi", "monthly installment", "loan payment", "equated monthly installment"]
+    },
+    {
+      "question": "How is loan eligibility determined?",
+      "alternate_questions": ["Am I eligible for a loan?", "What affects loan approval?", "Requirements to qualify for a loan", "Factors for loan eligibility"],
+      "answer": "Lenders typically assess your income, employment stability, existing debts, credit score or credit history, and sometimes age and the loan's purpose. A higher income relative to existing debt and a strong credit history generally improve eligibility and the interest rate offered. Requirements vary by lender and loan type.",
+      "keywords": ["eligibility", "qualify", "loan approval", "requirements", "am i eligible"]
+    },
+    {
+      "question": "What is a credit score and why does it matter?",
+      "alternate_questions": ["How is my credit score calculated?", "What is a good credit score?", "Why is my credit score low?", "Credit score meaning"],
+      "answer": "A credit score is a number that reflects how reliably you've repaid debts in the past, based on factors like payment history, amounts owed, length of credit history and recent credit applications. Lenders use it to assess risk when you apply for loans or credit cards, and a higher score generally leads to better approval chances and interest rates.",
+      "keywords": ["credit score", "credit rating", "credit history", "good credit score"]
+    },
+    {
+      "question": "Can I repay my loan early?",
+      "alternate_questions": ["What is loan prepayment?", "Early loan closure", "Pay off loan before term ends", "Prepayment penalty"],
+      "answer": "Many lenders allow early or partial repayment, which can reduce total interest paid. Some loans, especially fixed-rate ones, may charge a prepayment or early-closure fee. Check your loan agreement or ask your lender about their specific prepayment terms before deciding.",
+      "keywords": ["prepayment", "early repayment", "pay off early", "loan closure", "prepayment penalty"]
+    },
+    {
+      "question": "What types of loans do banks typically offer?",
+      "alternate_questions": ["What loan options are available?", "Types of bank loans", "Personal loan vs home loan", "Different kinds of loans"],
+      "answer": "Common types include personal loans for general use, home loans (mortgages) for buying property, auto loans for vehicles, education loans for studies, and business loans. Each has different eligibility criteria, interest rates, terms and, often, collateral requirements, with secured loans (backed by an asset) generally offering lower rates than unsecured ones.",
+      "keywords": ["types of loans", "personal loan", "home loan", "mortgage", "auto loan", "education loan"]
+    },
+    {
+      "question": "What is the difference between a secured and unsecured loan?",
+      "alternate_questions": ["What is collateral in a loan?", "Secured vs unsecured loan", "Does my loan need collateral?", "Loan without collateral"],
+      "answer": "A secured loan is backed by collateral, such as property or a vehicle, which the lender can claim if you fail to repay, and this usually means a lower interest rate. An unsecured loan, like most personal loans, requires no collateral but relies more heavily on your creditworthiness, often resulting in a higher interest rate.",
+      "keywords": ["secured loan", "unsecured loan", "collateral", "loan types", "difference"]
+    },
+    {
+      "question": "How do I apply for a loan?",
+      "alternate_questions": ["Steps to apply for a personal loan", "Loan application process", "How to get a loan from the bank", "Apply for home loan"],
+      "answer": "You typically apply through the bank's app, website, or a branch, providing personal, income and employment details along with supporting documents. The bank reviews your application, may run a credit check, and, if approved, presents the loan terms including interest rate, tenure and EMI for you to accept before disbursement.",
+      "keywords": ["apply for loan", "loan application", "how to get a loan", "application process"]
+    },
+    {
+      "question": "What happens if I miss a loan payment?",
+      "alternate_questions": ["I can't pay my EMI this month", "Missed loan installment", "Late payment on loan", "What if I default on a loan?"],
+      "answer": "Missing a payment usually results in a late fee and can negatively affect your credit score, making future borrowing harder or costlier. Continued missed payments can lead to increased collection efforts and, eventually, more serious consequences depending on the loan type. If you're struggling to pay, contact your lender early to discuss options like restructuring.",
+      "keywords": ["missed payment", "late payment", "default", "can't pay", "loan default"]
+    },
+    {
+      "question": "What does APR mean?",
+      "alternate_questions": ["What is annual percentage rate?", "APR vs interest rate", "How is APR calculated?", "APR meaning on loan"],
+      "answer": "APR, or Annual Percentage Rate, represents the yearly cost of borrowing, including the interest rate plus certain fees, expressed as a single percentage. It gives a more complete picture of a loan's true cost than the interest rate alone, which makes it useful for comparing offers from different lenders.",
+      "keywords": ["apr", "annual percentage rate", "interest rate", "true cost of loan"]
+    },
+    {
+      "question": "Can I get a loan with a low credit score?",
+      "alternate_questions": ["Loan approval with bad credit", "I have poor credit history, can I still borrow?", "Bad credit loan options", "How to improve chances of loan approval"],
+      "answer": "It's harder but often still possible, though you may face higher interest rates, lower loan amounts, or a requirement for collateral or a co-signer. Some lenders specialize in loans for lower credit scores. Improving your score over time, by paying bills on time and reducing existing debt, generally leads to better loan terms.",
+      "keywords": ["low credit score", "bad credit", "poor credit history", "loan approval"]
+    },
+    {
+      "question": "What is a co-signer or guarantor on a loan?",
+      "alternate_questions": ["Do I need a guarantor for a loan?", "What is a loan co-signer?", "Guarantor responsibilities", "Adding a guarantor to loan application"],
+      "answer": "A co-signer or guarantor agrees to repay the loan if the primary borrower fails to, which reduces risk for the lender and can help approval or secure better terms, especially for applicants with limited credit history. It's a significant commitment for the guarantor, since missed payments can affect their credit too.",
+      "keywords": ["co-signer", "guarantor", "loan guarantee", "joint responsibility"]
+    },
+    {
+      "question": "What documents are needed for a loan application?",
+      "alternate_questions": ["Loan application documents", "What paperwork do I need for a loan?", "Proof of income for loan", "Documents required to borrow money"],
+      "answer": "Lenders commonly ask for government-issued identification, proof of address, income or employment evidence, and details of existing debts. Depending on the loan, they may also need bank statements, tax records, property documents or information about the purpose of the loan. Requirements vary by lender and country.",
+      "keywords": ["loan documents", "proof of income", "loan paperwork", "application requirements"]
+    },
+    {
+      "question": "What is a variable interest rate loan?",
+      "alternate_questions": ["Floating interest rate loan", "Can my loan rate change?", "Variable vs fixed loan rate", "Loan payment increased because of interest"],
+      "answer": "A variable or floating interest rate can change during the loan term when the lender's reference rate or market conditions change. Your payment or repayment period may increase when rates rise and may decrease when rates fall. Review the loan agreement to understand how and when adjustments are made.",
+      "keywords": ["variable rate", "floating rate", "fixed vs variable", "loan interest changes"]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "category": "Banking Basics",
+  "faqs": [
+    {
+      "question": "What is interest?",
+      "alternate_questions": ["How does interest work?", "What does interest mean in banking?", "Interest explained", "Why do savings accounts pay interest?"],
+      "answer": "Interest is money paid for the use of money. When you save, the bank pays you interest for keeping your money with them; when you borrow, you pay the bank interest for lending to you. It's usually expressed as a percentage rate over a year (annual rate).",
+      "keywords": ["interest", "interest rate", "how interest works"]
+    },
+    {
+      "question": "What is compound interest?",
+      "alternate_questions": ["How is compound interest different from simple interest?", "Compound interest explained", "Why does compound interest grow faster?", "Simple vs compound interest"],
+      "answer": "Compound interest is interest calculated on both the original amount and the interest already earned or owed, so the total grows faster over time compared to simple interest, which is calculated only on the original amount. This is why savings can grow significantly over long periods, and why debt can grow quickly if unpaid.",
+      "keywords": ["compound interest", "simple interest", "growth over time"]
+    },
+    {
+      "question": "What is inflation and how does it affect my savings?",
+      "alternate_questions": ["What does inflation mean?", "Why does money lose value over time?", "Inflation explained simply", "How does inflation affect me?"],
+      "answer": "Inflation is the general rise in prices over time, which reduces how much your money can buy. If your savings earn interest below the inflation rate, the real value of your money can shrink over time, even though the account balance grows. This is one reason people invest, not just save, for long-term goals.",
+      "keywords": ["inflation", "purchasing power", "value of money"]
+    },
+    {
+      "question": "What is the difference between a bank and a credit union?",
+      "alternate_questions": ["Bank vs credit union", "Are credit unions safer than banks?", "What is a credit union?", "Should I use a credit union instead of a bank?"],
+      "answer": "A bank is typically a for-profit institution owned by shareholders, while a credit union is a not-for-profit, member-owned cooperative, often offering slightly better rates or lower fees because profits return to members. Both are usually regulated and offer deposit protection, but credit unions may have membership eligibility requirements.",
+      "keywords": ["credit union", "bank vs credit union", "member owned"]
+    },
+    {
+      "question": "What does it mean if my deposits are insured?",
+      "alternate_questions": ["Is my money safe in the bank?", "What is deposit insurance?", "What happens to my money if the bank fails?", "FDIC or deposit protection meaning"],
+      "answer": "Deposit insurance is a government or regulator-backed guarantee that protects your money up to a certain limit if the bank fails, so you don't lose your covered deposits. Coverage limits and the specific scheme differ by country, so check what protection applies to accounts in your country.",
+      "keywords": ["deposit insurance", "fdic", "protected", "bank failure", "safe money"]
+    },
+    {
+      "question": "What is a routing number or sort code?",
+      "alternate_questions": ["What is a sort code?", "Where do I find my routing number?", "Bank routing number meaning", "ABA number explained"],
+      "answer": "A routing number (in the US) or sort code (in the UK and some other countries) identifies the specific bank and branch for domestic transfers, similar to part of what an IBAN does internationally. You can usually find it on a cheque, in your app, or on your bank statement.",
+      "keywords": ["routing number", "sort code", "aba number", "bank identifier"]
+    },
+    {
+      "question": "What is a credit limit?",
+      "alternate_questions": ["What does credit limit mean?", "How is my credit limit decided?", "Maximum I can borrow on credit card", "Credit limit explained"],
+      "answer": "A credit limit is the maximum amount a lender allows you to borrow on a credit card or line of credit. It's based on factors like your income, credit history and existing debts. Spending close to or over your limit can hurt your credit score, so it's generally best to keep usage well below it.",
+      "keywords": ["credit limit", "maximum borrowing", "credit card limit"]
+    },
+    {
+      "question": "What is online or digital-only banking?",
+      "alternate_questions": ["What is a neobank?", "Digital bank vs traditional bank", "Is a bank with no branches safe?", "Online-only bank explained"],
+      "answer": "A digital-only bank, sometimes called a neobank, operates entirely online or through an app, without physical branches, often offering lower fees due to reduced overhead. They are usually regulated the same way as traditional banks and may still offer deposit insurance, but it's worth confirming this for any specific provider.",
+      "keywords": ["digital bank", "neobank", "online-only bank", "no branches"]
+    },
+    {
+      "question": "What is a bank statement and what information does it show?",
+      "alternate_questions": ["Explain my bank statement", "What appears on an account statement?", "Statement transaction details", "How to read bank statement"],
+      "answer": "A bank statement lists account activity over a period, including deposits, withdrawals, transfers, fees, dates and the opening and closing balances. Review it regularly and report unfamiliar transactions through your bank's official channel as soon as possible.",
+      "keywords": ["bank statement", "account activity", "transaction history", "statement details"]
+    },
+    {
+      "question": "What is an exchange rate?",
+      "alternate_questions": ["How does currency conversion work?", "Foreign currency exchange rate", "Why did I receive a different amount abroad?", "Currency conversion explained"],
+      "answer": "An exchange rate shows how much one currency is worth in another. Banks and card networks may use a rate that includes a margin, and a separate foreign transaction or conversion fee may apply. Check the total cost before exchanging money or paying in a foreign currency.",
+      "keywords": ["exchange rate", "currency conversion", "foreign currency", "conversion fee"]
+    }
+  ]
+}

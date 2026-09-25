@@ -1,0 +1,71 @@
+{
+  "category": "Security and Fraud",
+  "faqs": [
+    {
+      "question": "What should I do if I suspect fraud on my account?",
+      "alternate_questions": ["I think my account was hacked", "Report suspicious activity", "Unauthorized access to my account", "My account was compromised"],
+      "answer": "Contact your bank immediately through their official helpline or app to report it and, if needed, freeze your account or cards. Change your online banking password from a secure device, and review recent transactions for anything unfamiliar. Most banks have a dedicated fraud team to investigate and guide next steps.",
+      "keywords": ["fraud", "hacked", "compromised", "suspicious activity", "unauthorized access"]
+    },
+    {
+      "question": "What is phishing and how do I avoid it?",
+      "alternate_questions": ["What is a phishing scam?", "How to spot a fake bank email", "Suspicious email claiming to be my bank", "Phishing text message"],
+      "answer": "Phishing is when scammers pretend to be your bank, through email, text or phone, to trick you into revealing personal details, passwords or codes. Avoid clicking links in unexpected messages, verify the sender, and always type your bank's website address directly or use the official app instead of following links.",
+      "keywords": ["phishing", "scam", "fake email", "fake message", "spoofing"]
+    },
+    {
+      "question": "Will my bank ever ask for my PIN, password or OTP?",
+      "alternate_questions": ["Is it safe to share my OTP with someone claiming to be from the bank?", "Bank asking for password over phone", "Should I give my PIN to bank staff?", "Someone called asking for my OTP"],
+      "answer": "No. Legitimate banks never ask you to share your PIN, full password, or one-time codes over phone, email, text or in person, for any reason. If anyone asks for these, it's a scam, and you should hang up or stop responding and report it to your bank directly through official channels.",
+      "keywords": ["pin", "password", "otp", "never ask", "bank staff", "phone call scam"]
+    },
+    {
+      "question": "How do I recognize a fake or scam call from someone claiming to be my bank?",
+      "alternate_questions": ["Is this call really from my bank?", "Vishing scam", "Suspicious phone call about my account", "Caller asking for account details"],
+      "answer": "Be cautious of urgency ('your account will be blocked'), requests for codes or passwords, or callers asking you to move money to a 'safe account'. If in doubt, hang up and call your bank back using the number on their official website or the back of your card, not a number the caller gives you.",
+      "keywords": ["scam call", "vishing", "fake call", "phone scam", "caller id"]
+    },
+    {
+      "question": "What is identity theft and how can I protect myself?",
+      "alternate_questions": ["Someone opened an account in my name", "How do I prevent identity theft?", "My identity was stolen", "Protecting personal information"],
+      "answer": "Identity theft happens when someone uses your personal details, like your ID or account numbers, to commit fraud in your name. Protect yourself by not sharing sensitive documents unnecessarily, shredding old statements, using strong unique passwords, and monitoring your accounts and credit report regularly for unfamiliar activity.",
+      "keywords": ["identity theft", "stolen identity", "protect myself", "personal information"]
+    },
+    {
+      "question": "Is it safe to use online banking on public Wi-Fi?",
+      "alternate_questions": ["Can I use banking app on airport Wi-Fi?", "Public wifi banking risk", "Using bank app on cafe wifi", "Is free wifi safe for banking?"],
+      "answer": "It's best to avoid banking on public or unsecured Wi-Fi, since these networks can be intercepted by attackers. If you must, use your mobile data or a trusted VPN instead. Always ensure you're on your bank's genuine app or a website address starting with 'https' before entering any details.",
+      "keywords": ["public wifi", "wireless network", "secure connection", "vpn"]
+    },
+    {
+      "question": "What should I do if I sent money to a scammer?",
+      "alternate_questions": ["I was scammed out of money", "Sent payment to a fraudster", "Victim of a payment scam", "Report money sent to scammer"],
+      "answer": "Contact your bank immediately, since faster reporting improves the chance of stopping or recovering the payment. Provide all details of the transaction and the circumstances. Also report the scam to your local authorities or a national fraud reporting service, since banks often coordinate with them on these cases.",
+      "keywords": ["scammed", "sent money to scammer", "payment scam", "recover money", "report scam"]
+    },
+    {
+      "question": "How do I create a strong password for online banking?",
+      "alternate_questions": ["Password tips for banking app", "What makes a secure password?", "Best practices for online banking password", "How to protect my login"],
+      "answer": "Use a long, unique password not reused from other sites, combining upper and lower case letters, numbers and symbols, and avoid obvious details like birthdays or names. Consider a password manager to generate and store it securely, and enable two-factor authentication wherever your bank offers it for extra protection.",
+      "keywords": ["strong password", "secure password", "password tips", "protect login"]
+    },
+    {
+      "question": "What is a security question and why does my bank ask for one?",
+      "alternate_questions": ["Why do I need to answer security questions?", "Forgot my security question answer", "Purpose of security questions", "Bank verification questions"],
+      "answer": "Security questions are an extra identity check used when you contact the bank or reset access, helping confirm you're really the account holder. Choose answers that aren't easily guessable or publicly known, like on social media, and keep them noted securely if you're likely to forget them.",
+      "keywords": ["security question", "verification question", "identity check"]
+    },
+    {
+      "question": "What should I do if my phone or bank card is stolen?",
+      "alternate_questions": ["Phone stolen with banking app", "Lost phone and bank account security", "Stolen wallet and cards", "Protect account after phone theft"],
+      "answer": "Contact your mobile provider to block the SIM, use your bank's official channel to freeze cards and secure digital access, and change your banking password from a trusted device. Ask the bank to sign out other sessions and monitor transactions closely. Never follow security instructions from an unsolicited caller or message.",
+      "keywords": ["stolen phone", "stolen card", "lost wallet", "freeze account", "secure banking"]
+    },
+    {
+      "question": "How can I check if a banking website is genuine?",
+      "alternate_questions": ["Is this bank login page real?", "Avoid fake banking websites", "Check bank website security", "Fake login page warning"],
+      "answer": "Open the bank website by typing its known official address or using the official app instead of clicking an unexpected link. Check the domain carefully, confirm the connection uses HTTPS, and be suspicious of urgency, spelling errors or requests for your PIN and one-time codes. When unsure, contact the bank using the number on your card.",
+      "keywords": ["fake bank website", "genuine login page", "secure bank website", "phishing website"]
+    }
+  ]
+}
