@@ -152,7 +152,6 @@ If I save 10000 at 6% for 5 years how much will I have?
 Calculator results are estimates. Actual bank calculations may differ because of compounding frequency, fees, taxes, changing rates, and lender-specific rules.
 
 
-```
 
 ## Security and Privacy
 
