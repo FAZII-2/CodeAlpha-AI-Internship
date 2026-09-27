@@ -1,0 +1,14 @@
+.player-panel midi-player {
+  --midi-player-background-color: transparent;
+  --midi-player-primary-color: var(--color-crimson-bright);
+  --midi-player-ivory-color: #1a0a0a;
+  --midi-player-ebony-color: #0a0505;
+  --midi-player-shadow-color: transparent;
+  width: 100%;
+}
+
+.player-panel midi-visualizer {
+  --midi-visualizer-note-color: var(--color-crimson);
+  --midi-visualizer-note-color-active: var(--color-crimson-glow);
+  background: transparent !important;
+}

@@ -1,0 +1,55 @@
+│   .gitignore
+│   README.md
+│   
+├───backend
+│   │   requirements.txt
+│   │   
+│   └───app
+│       │   config.py
+│       │   generator.py
+│       │   main.py
+│       │   midi_converter.py
+│       │   model_loader.py
+│       │   schemas.py
+│       │   seeds.py
+│       │   __init__.py
+│       │   
+│       └───routes
+│               generate.py
+│               health.py
+│               __init__.py
+│               
+├───data
+│   └───sample_midi
+├───frontend
+│   │   index.html
+│   │   
+│   └───src
+│       │   App.jsx
+│       │   main.jsx
+│       │   
+│       ├───components
+│       │       AnimatedBackground.jsx
+│       │       GenerateButton.jsx
+│       │       LengthControl.jsx
+│       │       PianoRoll.jsx
+│       │       PlayerControls.jsx
+│       │       SeedPicker.jsx
+│       │       TemperatureSlider.jsx
+│       │       
+│       ├───hooks
+│       │       useGenerateMusic.js
+│       │       
+│       └───styles
+│               theme.css
+│               
+├───models
+│       music_lstm.h5
+│       music_lstm.keras
+│       note_mappings.json
+│       
+├───notebooks
+│       lstm-music-generate.ipynb
+│       
+└───outputs
+    └───generated_samples
