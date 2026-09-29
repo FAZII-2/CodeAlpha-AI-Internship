@@ -1,0 +1,14 @@
+object-detection-tracking/
+├── venv/                  (virtual environment, already created)
+├── input/                 (test videos go here)
+├── output/                (saved result videos)
+├── models/                (YOLO weights)
+├── src/
+│   ├── __init__.py
+│   ├── video_input.py     (webcam / video file)
+│   ├── detector.py        (YOLOv8 detection)
+│   ├── tracker.py         (Deep SORT tracking)
+│   └── utils.py           (drawing boxes, labels, FPS)
+├── main.py                (runs everything together)
+├── requirements.txt
+└── README.md
